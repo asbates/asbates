@@ -3,7 +3,7 @@
 Hi, I'm Andrew. 
 I'm a data scientist who primarily works in R.
 You can learn more about me on [my website](asbates.rbind.io).
-You can also find me on [![Twitter][1.2]][1], or connect with me on [![LinkedIn][2.2]][2].
+You can also find me on [![LinkedIn][2.2]][2].
 
 
 <!-- Icons -->
